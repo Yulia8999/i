@@ -99,3 +99,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = TrainingPlanner(root)
     root.mainloop()
+#Юлия Факеева
